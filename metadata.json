@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Academy - Cinematic Management System",
+  "description": "A world-class, multi-role education dashboard system featuring administrative, academic, and financial modules with a cinematic glassmorphism UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
